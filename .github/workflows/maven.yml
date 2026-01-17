@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-# Final check for GitHub Actions
+# Trigger final run after checking latest user feedback
 name: project cicd flow
 
 on:
