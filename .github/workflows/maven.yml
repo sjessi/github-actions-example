@@ -6,6 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
+# Final check for GitHub Actions
 name: project cicd flow
 
 on:
